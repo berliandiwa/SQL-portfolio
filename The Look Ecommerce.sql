@@ -48,3 +48,4 @@ Berdasarkan hasil query tersebut, pelanggan laki-laki paling tertarik dengan pro
   - Brand paling banyak yang ada di e-commerce thelook untuk perempuan adalah di kategori intimates, dan untuk     
     departemen laki-laki adalah di kategori jeans.
 */
+
